@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /adminpanel.php
+Disallow: /adminlogin.php
+Disallow: /check.php
