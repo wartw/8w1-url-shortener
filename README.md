@@ -13,3 +13,5 @@ SQL設定檔 ./config/sql.php
 程式設計:PingWei (http://on.fb.me/1SPNZKw)
 
 Demo:https://8w1.pw/
+
+本程式以停止更新
